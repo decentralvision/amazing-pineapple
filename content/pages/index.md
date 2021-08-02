@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: I enjoy pulling weeds after it rains!
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: >
+      ### I learned to use my non-dominant right hand and can now write with
+      either hand.&#xA;&#xA;&#xA;
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
