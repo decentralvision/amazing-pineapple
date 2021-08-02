@@ -29,7 +29,7 @@ sections:
       Science Degree in Technology Training and Development from the University
       of Houston and her Masters of Science in Library Science from the
       University of North Texas.
-    image: images/avatar.png
+    image: /images/lisa-1.jpg
     image_alt: test
   - title: Recent Posts
     section_id: posts
