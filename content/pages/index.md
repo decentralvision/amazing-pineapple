@@ -7,7 +7,7 @@ sections:
     subtitle: >
       ### I learned to use my non-dominant right hand and can now write with
       either hand.&#xA;&#xA;&#xA;
-    image: images/avatar.png
+    image: /images/87-877995_zen-enso-circle-png-transparent-png.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
