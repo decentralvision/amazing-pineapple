@@ -4,9 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: A Master of Communication Arts
-    subtitle: >
-      ### I learned to use my non-dominant right hand and can now write with
-      either hand.&#xA;&#xA;&#xA;
+    subtitle: |
+      Unparalleled experience and breadth of knowledge
     image: /images/87-877995_zen-enso-circle-png-transparent-png.png
     image_alt: Author avatar
   - title: Text
