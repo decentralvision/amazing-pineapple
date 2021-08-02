@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Master of Interpersonal Communications
+    title: The Empress of Interpersonal Communication
     subtitle: |
       Unparalleled experience and breadth of knowledge
     image: /images/87-877995_zen-enso-circle-png-transparent-png.png
