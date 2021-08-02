@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: A Master of Communication Arts
+    title: Master of Communication Arts
     subtitle: |
       Unparalleled experience and breadth of knowledge
     image: /images/87-877995_zen-enso-circle-png-transparent-png.png
